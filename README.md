@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yonghyun%20Kim&fontSize=90&animation=twinkling)
+
 <!--
 **sunhoh/sunhoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
