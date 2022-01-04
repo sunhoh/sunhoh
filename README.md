@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunho%20Lee&fontSize=90&animation=twinkling)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhoh)](https://github.com/anuraghazra/github-readme-stats)
 
-## 포토폴리오
+## 🌱 Portfolio
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/a31856a7393c4eac9b9f6da682146266)
 
 
 ## 🛠 Tech Stack</h3>
-### 프론트엔드
+### Front-End
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
