@@ -1,8 +1,8 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunho%20Lee&fontSize=90&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunho%20Lee&fontSize=90&animation=twinkling) -->
 
-<b>🛠 Tech Stack 🛠</b></h3>
+🛠 Tech Stack 🛠</h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
