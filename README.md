@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunho%20Lee&fontSize=90&animation=twinkling)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhoh)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌱 Portfolio
-
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/a31856a7393c4eac9b9f6da682146266)
 
 
 ## 🛠 Tech Stack</h3>
