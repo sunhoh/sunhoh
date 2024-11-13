@@ -18,9 +18,21 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/sunhoh"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/sunhoh?pet-id=644124868570253606"
+     width="50%"
+    height="120"
+  /><img
+    src="https://render.gitanimals.org/lines/sunhoh?pet-id=644124868570253603"
+    width="50%"
+    height="120"
+  /><img
+    src="https://render.gitanimals.org/lines/sunhoh?pet-id=644124868570253605"
+    width="50%"
+    height="120"
+  /><img
+    src="https://render.gitanimals.org/lines/sunhoh?pet-id=644124868570253602"
+    width="50%"
+    height="120"
+  />
 </a>
