@@ -1,10 +1,7 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunho%20Lee&fontSize=90&animation=twinkling)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhoh)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sunho%20Lee&fontSize=90&animation=twinkling) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhoh)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **sunhoh/sunhoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/sunhoh"
+  width="600"
+  height="300"
+/>
+</a>
