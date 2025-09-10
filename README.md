@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -32,6 +33,10 @@ Here are some ideas to get you started:
     height="120"
   /><img
     src="https://render.gitanimals.org/lines/sunhoh?pet-id=644124868570253602"
+    width="50%"
+    height="120"
+  /><img
+    src="https://render.gitanimals.org/lines/sunhoh?pet-id=741081178228430211"
     width="50%"
     height="120"
   />
